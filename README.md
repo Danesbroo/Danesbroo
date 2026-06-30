@@ -77,12 +77,6 @@ Email:
 
 LinkedIn:
 
-(Add your LinkedIn URL)
-
-Portfolio:
-
-(Add your portfolio URL)
-
----
+https://www.linkedin.com/in/dinesh-raj-baral/
 
 ⭐ Thanks for visiting my profile!
