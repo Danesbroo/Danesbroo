@@ -13,7 +13,7 @@ I build scalable, responsive and modern web applications using the MERN Stack.
 ## 👨‍💻 About Me
 
 - 💻 Full Stack MERN Developer
-- 🌱 Currently learning Docker, AWS and TypeScript
+- 🌱 Currently learning Docker, AWS, PostgreSQL and TypeScript
 - 🚀 Building a Multi Vendor E-commerce Platform
 - 🎯 Interested in Remote Opportunities
 - 📍 Pokhara, Nepal
