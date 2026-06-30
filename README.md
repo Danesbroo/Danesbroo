@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dinesh Raj Baral</h1>
 
-<!--
-**Danesbroo/Danesbroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack MERN Developer from Nepal 🇳🇵
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build scalable, responsive and modern web applications using the MERN Stack.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack MERN Developer
+- 🌱 Currently learning Docker, AWS and TypeScript
+- 🚀 Building a Multi Vendor E-commerce Platform
+- 🎯 Interested in Remote Opportunities
+- 📍 Pokhara, Nepal
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- REST API
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Cloudinary
+- Stripe
+
+---
+
+## 🌟 Featured Project
+
+### 🛒 Multi Vendor E-commerce Platform
+
+Features:
+
+- Customer Dashboard
+- Vendor Dashboard
+- Admin Dashboard
+- Authentication
+- Product Management
+- Order Management
+- Payment Integration
+- Responsive Design
+
+---
+
+## 📫 Connect With Me
+
+Email:
+
+**danesbroo34@gmail.com**
+
+LinkedIn:
+
+(Add your LinkedIn URL)
+
+Portfolio:
+
+(Add your portfolio URL)
+
+---
+
+⭐ Thanks for visiting my profile!
